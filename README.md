@@ -3,5 +3,5 @@
 
 # Functionality
 * Two mode Available
- * 1st Two player
- * 2nd Player vs Robo bot 
+ * 1st Two player Mode
+ * 2nd Player vs Robo bot Mode 
